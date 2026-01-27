@@ -10,6 +10,10 @@ Hi, I’m Aaitijhya Goswami, a BS (Research) student at the Indian Institute of 
 
 # 💻 Recent Respositories
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AaitijhyaGoswami&repo=biophysics-module&theme=tokyonight)](https://github.com/AaitijhyaGoswami/navier-stokes-sim)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AaitijhyaGoswami&repo=navier-stokes-sim&theme=tokyonight)](https://github.com/AaitijhyaGoswami/navier-stokes-sim)
+
 
 # 📊 GitHub Stats:
 [![Aaitijhya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaitijhyaGoswami&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
