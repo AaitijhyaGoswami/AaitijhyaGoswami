@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Aaitijhya Goswami — a BS (Research) student at the Indian Institute of Science (IISc) with a strong interest in experimental physics, specifically condensed matter physics
+Hi, I’m Aaitijhya Goswami, a BS (Research) student at the Indian Institute of Science (IISc) with a strong interest in experimental physics, specifically condensed matter physics
 
 
 ## 🌐 Socials:
@@ -19,7 +19,6 @@ Hi, I’m Aaitijhya Goswami — a BS (Research) student at the Indian Institute 
 ![](https://github-contributor-stats.vercel.app/api?username=AaitijhyaGoswami&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AaitijhyaGoswami&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AaitijhyaGoswami) 
