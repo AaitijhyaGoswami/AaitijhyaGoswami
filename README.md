@@ -5,7 +5,7 @@ Hi, I’m Aaitijhya Goswami, a Bachelor of Science (Research) student at the Ind
 - 👯 I’m looking to collaborate on stochastic simulations, biophysics, engineering and data science.
 - 🤔 I’m looking for help with implementing AI-based simulation methods and UI/UX development.
 - 💬 Ask me about how much sleep I get at the No. 1 STEM University in India.
-- 📫 How to reach me: social links above, feel free to AMA!
+- 📫 How to reach me: social links below, feel free to AMA!
 - 😄 Pronouns: he/him
 
 
