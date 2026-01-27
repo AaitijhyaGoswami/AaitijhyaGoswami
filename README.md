@@ -15,10 +15,10 @@ Hi, I’m Aaitijhya Goswami, a BS (Research) student at the Indian Institute of 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AaitijhyaGoswami&repo=navier-stokes-sim&theme=tokyonight&description_lines_count=2)](https://github.com/AaitijhyaGoswami/navier-stokes-sim)
 
 # Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaitijhyaGoswami)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaitijhyaGoswami&theme=tokyonight&size_weight=0.5&count_weight=0.5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # 📊 GitHub Stats:
-[![Aaitijhya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaitijhyaGoswami&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Aaitijhya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaitijhyaGoswami&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
