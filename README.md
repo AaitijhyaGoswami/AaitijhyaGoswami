@@ -14,7 +14,7 @@ Hi, I’m Aaitijhya Goswami, a BS (Research) student at the Indian Institute of 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 
-![](https://github-contributor-stats.vercel.app/api?username=AaitijhyaGoswami&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=AaitijhyaGoswami&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
