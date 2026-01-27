@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+!+👋;Wassup+fellow+coder!;I+am+Aaitijhya+!;a.k.a+Abel;Let's+collab&size=30)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+!+👋;Wassup+fellow+coder!;I+am+Aaitijhya+!;a.k.a+Abel;Let's+collab&size=30&background=FEFF4C)](https://git.io/typing-svg)
 
 
 # 💫 About Me:
