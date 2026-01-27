@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+!+👋;Wassup+fellow+coder!;I+am+Aaitijhya+!;a.k.a+Abel;Let's+collab&center=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+!+👋;Wassup+fellow+coder!;I+am+Aaitijhya+!;a.k.a+Abel;Let's+collab&center=true&size=50)](https://git.io/typing-svg)
 # 💫 About Me:
 Hi, I’m Aaitijhya Goswami, a Bachelor of Science (Research) student at the Indian Institute of Science (IISc), planning to major in Physics.
 - 🔭 I’m currently working on experimental condensed matter physics at the Department of Physics, IISc.
