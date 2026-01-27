@@ -15,7 +15,9 @@ Hi, I’m Aaitijhya Goswami, a Bachelor of Science (Research) student at the Ind
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/p3R3sxX2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abel_g1205) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aaitijhya-goswami-553940280/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ThePhysicist69420) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aaitijhyag@iisc.ac.in) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![Altair](https://img.shields.io/badge/Altair-4C78A8?style=for-the-badge&logo=vega&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white) ![ANSYS](https://img.shields.io/badge/Ansys-FFB71B?style=for-the-badge&logo=ansys&logoColor=black) ![SOLIDWORKS](https://img.shields.io/badge/Solidworks-D22027?style=for-the-badge&logo=solidworks&logoColor=white) ![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autocad&logoColor=white)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/p3R3sxX2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abel_g1205) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aaitijhya-goswami-553940280/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ThePhysicist69420) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aaitijhyag@iisc.ac.in) 
+
+# 💻 Tech Stack:
 
 ### 🛠 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
@@ -34,6 +36,7 @@ Hi, I’m Aaitijhya Goswami, a Bachelor of Science (Research) student at the Ind
 
 ### 🔌 Tools & Utilities
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+
 # 💻 Recent Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AaitijhyaGoswami&repo=biophysics-module&theme=tokyonight&description_lines_count=2)](https://github.com/AaitijhyaGoswami/biophysics-module)
