@@ -2,7 +2,7 @@
 Hi, I’m Aaitijhya Goswami, a Bachelor of Science (Research) student at the Indian Institute of Science (IISc), planning to major in Physics.
 - 🔭 I’m currently working on experimental condensed matter physics at the Department of Physics, IISc.
 - 🌱 I’m currently learning PyTorch, TensorFlow, Stochastic PDE Modeling, Monte Carlo Simulations, and Quantum Many-Particle Systems.
-- 👯 I’m looking to collaborate on stochatic simulations, biophysics, engineering and data science.
+- 👯 I’m looking to collaborate on stochastic simulations, biophysics, engineering and data science.
 - 🤔 I’m looking for help with implementing AI-based simulation methods and UI/UX development.
 - 💬 Ask me about how much sleep I get at the No. 1 STEM University in India.
 - 📫 How to reach me: social links above, feel free to AMA!
