@@ -1,4 +1,4 @@
-8# 💫 About Me:
+# 💫 About Me:
 Hi, I’m Aaitijhya Goswami, a BS (Research) student at the Indian Institute of Science (IISc) with a strong interest in experimental physics, specifically condensed matter physics. Currently working as a research intern at the Department of Physics, IISc.
 
 
