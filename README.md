@@ -37,7 +37,7 @@ Hi, I’m Aaitijhya Goswami, a Bachelor of Science (Research) student at the Ind
 ## 🔌 Tools & Utilities
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
-# 💻 Recent Repositories
+# 📚 Recent Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AaitijhyaGoswami&repo=biophysics-module&theme=tokyonight&description_lines_count=2)](https://github.com/AaitijhyaGoswami/biophysics-module)
 
