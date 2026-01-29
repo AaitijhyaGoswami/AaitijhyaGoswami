@@ -48,6 +48,8 @@ Hi, I’m Aaitijhya Goswami, a Bachelor of Science (Research) student at the Ind
 
 # 📊 GitHub Stats:
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaitijhyaGoswami&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
