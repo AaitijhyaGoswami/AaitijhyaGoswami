@@ -1,5 +1,4 @@
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+!+👋;Wassup+fellow+coder!;I+am+Aaitijhya+!;a.k.a+Abel;Let's+collab+!+😁&vCenter=true&center=true&height=80&width=700&size=50&background=152238)](https://git.io/typing-svg)
 
 
@@ -49,7 +48,7 @@ Hi, I’m Aaitijhya Goswami, a Bachelor of Science (Research) student at the Ind
 
 # 📊 GitHub Stats
 
-[![Aaitijhya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AaitijhyaGoswami&theme=tokyonight&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Aaitijhya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AaitijhyaGoswami&theme=tokyonight&show_icons=true&rank_card=github)]
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
