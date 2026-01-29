@@ -45,7 +45,7 @@ Hi, I’m Aaitijhya Goswami, a Bachelor of Science (Research) student at the Ind
 
 # 👨‍💻 Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AaitijhyaGoswami&theme=tokyonight&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaitijhyaGoswami&theme=tokyonight&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
 # 📊 GitHub Stats
 
