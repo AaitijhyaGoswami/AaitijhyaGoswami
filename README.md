@@ -48,7 +48,7 @@ Hi, I’m Aaitijhya Goswami, a Bachelor of Science (Research) student at the Ind
 
 # 📊 GitHub Stats
 
-[![Aaitijhya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AaitijhyaGoswami&theme=tokyonight&show_icons=true&rank_card=github)](https://github.com/AaitijhyaGoswami)
+[![Aaitijhya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AaitijhyaGoswami&theme=tokyonight&show_icons=true&rank_card=percentile)](https://github.com/AaitijhyaGoswami)
 
 
 # ✍️ Random Dev Quote
